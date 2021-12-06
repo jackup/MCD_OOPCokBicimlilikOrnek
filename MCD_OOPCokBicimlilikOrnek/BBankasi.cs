@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MCD_OOPCokBicimlilikOrnek
 {
-    class BBankasi : Banka
+    public class BBankasi : Banka
     {
         //Bu banka 0.05 indirim yapacak. Bu nedenle virtual metodu override ettik
 

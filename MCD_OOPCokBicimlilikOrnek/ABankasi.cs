@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MCD_OOPCokBicimlilikOrnek
 {
-    class ABankasi : Banka
+    public class ABankasi : Banka
     {
         public override void IndirimOraninaGoreIndirimYap()
         {

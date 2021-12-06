@@ -13,11 +13,7 @@ namespace MCD_OOPCokBicimlilikOrnek
 
         private decimal alisverisTutari = 0;
 
-        public decimal AlisverisTutari
-        {
-            get { return alisverisTutari; }
-            set { alisverisTutari = value; }
-        }
+        public decimal AlisverisTutari { get; set; }
 
         public void BilgileriAl()
         {
